@@ -1,2 +1,2 @@
-# Energy Efficient Routing
-Open source repository for Energy Efficient Routing protocol
+# Energy Efficient and balanced Routing for WSNs
+Open source repository for Energy Efficient and balanced Routing protocol
